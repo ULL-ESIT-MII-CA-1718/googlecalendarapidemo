@@ -1,0 +1,6 @@
+[submodule "bookingappdemo-node"]
+	path = bookingappdemo-node
+	url = git@github.com:ULL-ESIT-MII-CA-1718/bookingappdemo-node.git
+[submodule "bookingappdemo-angular"]
+	path = bookingappdemo-angular
+	url = git@github.com:ULL-ESIT-MII-CA-1718/bookingappdemo-angular.git
